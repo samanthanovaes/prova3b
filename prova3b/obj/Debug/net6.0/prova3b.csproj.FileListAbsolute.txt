@@ -1,0 +1,15 @@
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\prova3b.csproj.AssemblyReference.cache
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\prova3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\prova3b.AssemblyInfoInputs.cache
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\prova3b.AssemblyInfo.cs
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\prova3b.csproj.CoreCompileInputs.cache
+C:\Users\saman\source\repos\prova3b\prova3b\bin\Debug\net6.0\prova3b.exe
+C:\Users\saman\source\repos\prova3b\prova3b\bin\Debug\net6.0\prova3b.deps.json
+C:\Users\saman\source\repos\prova3b\prova3b\bin\Debug\net6.0\prova3b.runtimeconfig.json
+C:\Users\saman\source\repos\prova3b\prova3b\bin\Debug\net6.0\prova3b.dll
+C:\Users\saman\source\repos\prova3b\prova3b\bin\Debug\net6.0\prova3b.pdb
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\prova3b.dll
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\refint\prova3b.dll
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\prova3b.pdb
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\prova3b.genruntimeconfig.cache
+C:\Users\saman\source\repos\prova3b\prova3b\obj\Debug\net6.0\ref\prova3b.dll
